@@ -42,6 +42,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devesh-rawat/devesh-rawat/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/devesh-rawat/devesh-rawat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
