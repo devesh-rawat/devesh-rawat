@@ -1,48 +1,35 @@
-<h2 align="center">Hello, I'm Devesh Rawat! 👋<br><br>🚀 Computer Science Engineering Student | Android Developer<br><br>I’m a CSE student at VMSB UTU Dehradun, passionate about Android development with Jetpack Compose and software engineering. I love building innovative solutions and exploring new technologies.<br><br>💡 Tech Stack:<br>✔ Languages: Java, C, C++, Python, Kotlin<br>✔ Frameworks & Tools: Jetpack Compose, Android Studio<br><br>📫 Let's Connect: Email | Portfolio<br><br>"Building, learning, and growing—one line of code at a time!" 🚀</h2>
+<h2 align="center">Hello, I'm Devesh Rawat! 👋</h2>
 
-###
+<p align="center">
+🚀 <strong>Computer Science Engineering Student | Android Developer</strong>  
+I’m a CSE student at <strong>VMSB UTU Dehradun</strong>, passionate about <strong>Android development with Jetpack Compose</strong> and software engineering. I love building innovative solutions and exploring new technologies.
+</p>
+
+---
+
+### 💡 Tech Stack:
+✔ **Languages:** Java, C, C++, Python, Kotlin  
+✔ **Frameworks & Tools:** Jetpack Compose, Android Studio  
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devesh-rawat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh-rawat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devesh-rawat&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh-rawat&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQGNWuvjEqxTEg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712630482898?e=1748476800&v=beta&t=QvmilnqUiMeo4zCsr83Nuog9kX06Ob3fbeIsDk9R7e0"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="devesh08rawat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="mailto:devesh08rawat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/devesh-rawat-35a50b271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://github.com/devesh-rawat/devesh-rawat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
-###
+*"Building, learning, and growing—one line of code at a time!"* 🚀
