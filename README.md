@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Enthusiast;Hackathon+Winner;Problem+Solver;Tech+Innovator)](https://git.io/typing-svg)
 
-**4th Year B.Tech CSE Student | Android & Flutter Developer | State-Level Hackathon Champion**
+**Final Year B.Tech CSE Student | Android & Flutter Developer | State-Level Hackathon Champion**
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a passionate **4th year Computer Science Engineering student** at Veer Madho Singh Bhandari Uttarakhand Technical University with a strong focus on mobile application development. My journey in tech is driven by creating solutions that make a real-world impact, demonstrated by my state-level hackathon victory.
+I'm a passionate **Final year Computer Science Engineering student** at Veer Madho Singh Bhandari Uttarakhand Technical University with a strong focus on mobile application development. My journey in tech is driven by creating solutions that make a real-world impact, demonstrated by my state-level hackathon victory.
 
 ### What I Bring to the Table:
 - **State-Level Hackathon Champion** - 1st prize awarded by the Governor of Uttarakhand
